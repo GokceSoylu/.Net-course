@@ -1,4 +1,5 @@
 ﻿Console.WriteLine("Video 3 Ders Notları");
+#region Thread
 // Thread thread = new(() =>
 // {
 //     for (int i = 0; i < 100; i++)
@@ -11,7 +12,7 @@
 // {
 //     Console.WriteLine("Main Thread");
 // }
-
+#endregion
 #region Thread Id
 // Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
 // Thread thread1 = new(() =>
@@ -25,7 +26,6 @@
 // thread1.Start();
 // thread2.Start();
 #endregion
-
 #region IsBackground 
 // Thread thread = new(() =>
 // {

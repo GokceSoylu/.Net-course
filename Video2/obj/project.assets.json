@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gokcesoylu/.Net-course/Video3/Video3.csproj",
-      "projectName": "Video3",
-      "projectPath": "/Users/gokcesoylu/.Net-course/Video3/Video3.csproj",
+      "projectUniqueName": "/Users/gokcesoylu/.Net-course/Video2/Video2.csproj",
+      "projectName": "Video2",
+      "projectPath": "/Users/gokcesoylu/.Net-course/Video2/Video2.csproj",
       "packagesPath": "/Users/gokcesoylu/.nuget/packages/",
-      "outputPath": "/Users/gokcesoylu/.Net-course/Video3/obj/",
+      "outputPath": "/Users/gokcesoylu/.Net-course/Video2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gokcesoylu/.nuget/NuGet/NuGet.Config"
