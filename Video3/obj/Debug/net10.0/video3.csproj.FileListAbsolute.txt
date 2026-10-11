@@ -1,0 +1,15 @@
+/Users/gokcesoylu/.Net-course/Video3/bin/Debug/net10.0/video3
+/Users/gokcesoylu/.Net-course/Video3/bin/Debug/net10.0/video3.deps.json
+/Users/gokcesoylu/.Net-course/Video3/bin/Debug/net10.0/video3.runtimeconfig.json
+/Users/gokcesoylu/.Net-course/Video3/bin/Debug/net10.0/video3.dll
+/Users/gokcesoylu/.Net-course/Video3/bin/Debug/net10.0/video3.pdb
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.AssemblyInfoInputs.cache
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.AssemblyInfo.cs
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.csproj.CoreCompileInputs.cache
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.sourcelink.json
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.dll
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/refint/video3.dll
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.pdb
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/video3.genruntimeconfig.cache
+/Users/gokcesoylu/.Net-course/Video3/obj/Debug/net10.0/ref/video3.dll
